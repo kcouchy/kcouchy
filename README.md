@@ -1,4 +1,4 @@
-## Hi there 👋
+## A la recherche d'un stage en analyse/ingénierie de données
 
 <!--
 **kcouchy/kcouchy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
