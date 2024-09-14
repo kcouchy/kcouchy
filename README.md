@@ -11,19 +11,14 @@ En reconversion, actuellement étudiante à l’École 42 Le Havre : Concepteur 
 Ancienne chercheuse en neurosciences, avec une grande expérience dans la gestion et l'analyse des données dans le cadre de projets complexes. Lauréate de la Bourse l’Oréal UNESCO Pour les Femmes et la Science.<br/> 
 Innovante et méticuleuse, j'ai de solides connaissances en matière de gestion de projets et la rédaction technique. Je suis convaincue qu'une bonne prise de décision commence par des données solides et fiables.<br/> 
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=kcouchy&show_icons=true&theme=algolia&hide_border=True&hide=prs,issues"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=kcouchy&show_icons=true&theme=transparent&hide_border=True&hide=prs,issues"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcouchy&size_weight=0.5&count_weight=0.5&theme=algolia&hide_border=True&layout=compact)
+![Kiri's GitHub stats](https://github-readme-stats.vercel.app/api?username=kcouchy&show_icons=true&theme=algolia&hide_border=True&hide=prs,issues)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcouchy&size_weight=0.5&count_weight=0.5&theme=algolia&hide_border=True)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcouchy&repo=minishell&theme=algolia&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcouchy&repo=IRC&theme=algolia&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcouchy&repo=fractol&theme=algolia&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcouchy&repo=pipex&theme=algolia&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcouchy&repo=philosophers&theme=algolia&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcouchy&repo=cub3D-labyrinth-explorer&theme=algolia&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kiri-couchman-b6775282/)
