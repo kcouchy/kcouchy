@@ -21,4 +21,4 @@ Innovante et méticuleuse, j'ai de solides connaissances en matière de gestion 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcouchy&repo=philosophers&theme=algolia&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcouchy&repo=cub3D-labyrinth-explorer&theme=algolia&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kiri-couchman-b6775282/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://fr.linkedin.com/in/kiri-couchman-b6775282)
