@@ -14,11 +14,11 @@ Innovante et méticuleuse, j'ai de solides connaissances en matière de gestion 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcouchy&size_weight=0.5&count_weight=0.5&theme=algolia&hide_border=True&layout=compact)
 ![Kiri's GitHub stats](https://github-readme-stats.vercel.app/api?username=kcouchy&show_icons=true&theme=algolia&hide_border=True&hide=prs,issues)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcouchy&repo=minishell&theme=algolia&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcouchy&repo=IRC&theme=algolia&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcouchy&repo=fractol&theme=algolia&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcouchy&repo=pipex&theme=algolia&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcouchy&repo=philosophers&theme=algolia&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcouchy&repo=cub3D-labyrinth-explorer&theme=algolia&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcouchy&repo=minishell&theme=algolia&hide_border=True)](https://github.com/kcouchy/minishell)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcouchy&repo=IRC&theme=algolia&hide_border=True)](https://github.com/kcouchy/IRC)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcouchy&repo=fractol&theme=algolia&hide_border=True)](https://github.com/kcouchy/fractol)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcouchy&repo=pipex&theme=algolia&hide_border=True)](https://github.com/kcouchy/pipex)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcouchy&repo=philosophers&theme=algolia&hide_border=True)](https://github.com/kcouchy/philosophers)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcouchy&repo=cub3D-labyrinth-explorer&theme=algolia&hide_border=True)](https://github.com/kcouchy/cub3D-labyrinth-explorer)
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://fr.linkedin.com/in/kiri-couchman-b6775282)
