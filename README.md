@@ -4,7 +4,8 @@
  <img alt="olfactory neurons" src="https://github.com/user-attachments/assets/7ccf9e25-5816-4810-8566-873b904d6215">
 </picture>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,django,docker,vscode&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,django,docker,vscode&perline=10)](https://skillicons.dev)<br/>
+<img src="https://github.com/user-attachments/assets/b3317ad6-edaa-4a32-881b-0d2ba79cdcde" width="100" height="100">
 
 # A la recherche d'un stage en analyse/ingénierie de données
 En reconversion, actuellement étudiante à l’École 42 Le Havre : Concepteur développeur de solutions informatiques.<br/> 
@@ -22,3 +23,4 @@ Innovante et méticuleuse, j'ai de solides connaissances en matière de gestion 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kcouchy&repo=cub3D-labyrinth-explorer&theme=algolia&hide_border=True)](https://github.com/kcouchy/cub3D-labyrinth-explorer)
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://fr.linkedin.com/in/kiri-couchman-b6775282)
+
