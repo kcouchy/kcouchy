@@ -4,7 +4,7 @@
  <img alt="olfactory neurons" src="https://github.com/user-attachments/assets/7ccf9e25-5816-4810-8566-873b904d6215">
 </picture>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,django,docker,vscode,python&perline=10)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,django,docker,vscode&perline=10)](https://skillicons.dev)<br/>
 <img src="https://github.com/user-attachments/assets/b3317ad6-edaa-4a32-881b-0d2ba79cdcde" width="100" height="100">
 <img src="https://github.com/user-attachments/assets/f8a8804d-cf50-427a-8392-fab8652c9bcb" width="100" height="100">
 
