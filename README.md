@@ -8,7 +8,7 @@
 <img src="https://github.com/user-attachments/assets/b3317ad6-edaa-4a32-881b-0d2ba79cdcde" width="100" height="100">
 <img src="https://github.com/user-attachments/assets/f8a8804d-cf50-427a-8392-fab8652c9bcb" width="100" height="100">
 
-# A la recherche d'un stage en analyse/ingénierie de données
+# A la recherche d'un emploi en analyse/ingénierie de données
 En reconversion, actuellement étudiante à l’École 42 Le Havre : Concepteur développeur de solutions informatiques.<br/> 
 Ancienne chercheuse en neurosciences, avec une grande expérience dans la gestion et l'analyse des données dans le cadre de projets complexes. Lauréate de la Bourse l’Oréal UNESCO Pour les Femmes et la Science.<br/> 
 Innovante et méticuleuse, j'ai de solides connaissances en matière de gestion de projets et la rédaction technique. Je suis convaincue qu'une bonne prise de décision commence par des données solides et fiables.<br/> 
