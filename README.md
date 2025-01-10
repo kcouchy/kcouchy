@@ -6,6 +6,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,django,docker,vscode&perline=10)](https://skillicons.dev)<br/>
 <img src="https://github.com/user-attachments/assets/b3317ad6-edaa-4a32-881b-0d2ba79cdcde" width="100" height="100">
+<img src="https://github.com/user-attachments/assets/f8a8804d-cf50-427a-8392-fab8652c9bcb" width="100" height="100">
 
 # A la recherche d'un stage en analyse/ingénierie de données
 En reconversion, actuellement étudiante à l’École 42 Le Havre : Concepteur développeur de solutions informatiques.<br/> 
