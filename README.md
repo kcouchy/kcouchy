@@ -4,11 +4,11 @@
  <img alt="olfactory neurons" src="https://github.com/user-attachments/assets/7ccf9e25-5816-4810-8566-873b904d6215">
 </picture>
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,django,docker,vscode&perline=10)](https://skillicons.dev)<br/>
+<img alt="Power BI" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" width="40" height="50"> [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,django,docker,vscode&perline=10)](https://skillicons.dev)<br/>
 <img src="https://github.com/user-attachments/assets/b3317ad6-edaa-4a32-881b-0d2ba79cdcde" width="100" height="100">
 <img src="https://github.com/user-attachments/assets/f8a8804d-cf50-427a-8392-fab8652c9bcb" width="100" height="100">
 
-# A la recherche d'un emploi en analyse/ingénierie de données
+# Data Engineer
 En reconversion, actuellement étudiante à l’École 42 Le Havre : Concepteur développeur de solutions informatiques.<br/> 
 Ancienne chercheuse en neurosciences, avec une grande expérience dans la gestion et l'analyse des données dans le cadre de projets complexes. Lauréate de la Bourse l’Oréal UNESCO Pour les Femmes et la Science.<br/> 
 Innovante et méticuleuse, j'ai de solides connaissances en matière de gestion de projets et la rédaction technique. Je suis convaincue qu'une bonne prise de décision commence par des données solides et fiables.<br/> 
