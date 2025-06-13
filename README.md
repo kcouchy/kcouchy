@@ -4,7 +4,7 @@
  <img alt="olfactory neurons" src="https://github.com/user-attachments/assets/7ccf9e25-5816-4810-8566-873b904d6215">
 </picture>
 
-<img alt="Power BI" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" width="40" height="50"> [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,django,docker,vscode&perline=10)](https://skillicons.dev)<br/>
+<img alt="Power BI" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" width="40" height="50"><img alt="Power BI" src="https://github.com/user-attachments/assets/6b050e43-237a-4b67-ad80-85cfc2e10583" width="100" height="60"> [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,django,docker,vscode&perline=10)](https://skillicons.dev)<br/>
 <img src="https://github.com/user-attachments/assets/b3317ad6-edaa-4a32-881b-0d2ba79cdcde" width="100" height="100">
 <img src="https://github.com/user-attachments/assets/f8a8804d-cf50-427a-8392-fab8652c9bcb" width="100" height="100">
 
